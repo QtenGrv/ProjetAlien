@@ -26,6 +26,10 @@
 		{
 			"Name": "UdpMessaging",
 			"Enabled": false
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
 		}
 	]
 }
